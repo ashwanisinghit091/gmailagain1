@@ -14,6 +14,7 @@ public class Demo {
 		
 		
 		System.out.println("yes you can !");
+		System.out.println("yes");
 	}
 	
 
