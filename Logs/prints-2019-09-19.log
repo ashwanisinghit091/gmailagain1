@@ -1,0 +1,3 @@
+09:43:53.034 [pool-2-thread-1] ERROR Naukri_Profile.Search_Job - [TestResult name=SearchForJob status=FAILURE method=Search_Job.SearchForJob()[pri:0, instance:Naukri_Profile.Search_Job@2df3b89c] output={null}]testcase failed
+09:43:54.187 [pool-2-thread-1] ERROR Naukri_Profile.Search_Job - [TestResult name=SearchForJob status=FAILURE method=Search_Job.SearchForJob()[pri:0, instance:Naukri_Profile.Search_Job@2df3b89c] output={null}]testcase failed
+09:44:52.979 [pool-2-thread-2] INFO  Naukri_Profile.Search_Job - successfully clicked on login option
